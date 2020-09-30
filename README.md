@@ -1,6 +1,9 @@
 Website of the Dublin University Computer Science Society. This site is built with Mezzanine, which is 
 a Python Django blog system.
 
+### About
+
+Mezzanine is a Content Management System written in Python using the Django framework. It was initially developed by Stephen McDonald in 2010, then formally released for use in 2012. McDonald wrote in a blog post that reception to Mezzanine was mostly positive, with the most notable feedback coming from GitHub users
 
 Development
 ===============
